@@ -3,7 +3,7 @@
     "description": "This package provides an easy-to-use interface for integrating Firebase Cloud Messaging (FCM) notifications into your Laravel application. Developed by Ahmed Eid, CEO of Plan A, it simplifies sending push notifications to iOS and Android devices.",
     "type": "library",
     "require": {
-        "php": "^7.3|^8.*",
+        "php": "^8.1",
         "google/apiclient": "^2.17",
         "guzzlehttp/guzzle": "^7.4.5"
     },
